@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.49616a62.css",
   "main.css.map": "static/css/main.49616a62.css.map",
-  "main.js": "static/js/main.6509725e.js",
-  "main.js.map": "static/js/main.6509725e.js.map",
+  "main.js": "static/js/main.f587acba.js",
+  "main.js.map": "static/js/main.f587acba.js.map",
   "static\\media\\basketball.svg": "static/media/basketball.815b214a.svg",
   "static\\media\\cloud.svg": "static/media/cloud.abe86a1a.svg",
   "static\\media\\favicon.png": "static/media/favicon.8fa00104.png",
@@ -10,5 +10,6 @@
   "static\\media\\loading.svg": "static/media/loading.11fd30d7.svg",
   "static\\media\\moon.png": "static/media/moon.297e244f.png",
   "static\\media\\send.svg": "static/media/send.1aa83eef.svg",
+  "static\\media\\soccer-arch.svg": "static/media/soccer-arch.de986f13.svg",
   "static\\media\\sun.png": "static/media/sun.12b20c6f.png"
 }
